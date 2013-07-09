@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sql-connectivity-tester", "sql-connectivity-tester\sql-connectivity-tester.csproj", "{D7504500-FE33-4410-B02E-0B1E44F305DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7504500-FE33-4410-B02E-0B1E44F305DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7504500-FE33-4410-B02E-0B1E44F305DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7504500-FE33-4410-B02E-0B1E44F305DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7504500-FE33-4410-B02E-0B1E44F305DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
