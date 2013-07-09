@@ -6,5 +6,5 @@ A useful utility for testing network connectivity and security permissions on se
 
 ReturnCode aka %ERRORLEVEL%:
 
-  0 = OK
+  	0 = OK
 	1 = UnknownError
